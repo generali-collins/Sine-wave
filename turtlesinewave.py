@@ -1,3 +1,5 @@
+# Collins Wanga
+# 05-01-2023
 import math
 import turtle
 
